@@ -11,3 +11,5 @@ https://computermuseum.informatik.uni-stuttgart.de/dev_en/im6100sp/
 
 Original manual:
 http://dunfield.classiccmp.org/other/i6100cfs.pdf
+
+*** UNDER DEVELOPMENT! Not tested, not validated yet. ***
