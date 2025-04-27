@@ -48,7 +48,7 @@
         "silk_text_thickness": 0.1,
         "silk_text_upright": false,
         "zones": {
-          "min_clearance": 0.2032
+          "min_clearance": 0.254
         }
       },
       "diff_pair_dimensions": [
@@ -465,7 +465,7 @@
     "pinned_symbol_libs": []
   },
   "meta": {
-    "filename": "IM6100 SAMPLER_v246_2025-04-12-16-11.kicad_pro",
+    "filename": "IM6100 SAMPLER_v3.kicad_pro",
     "version": 3
   },
   "net_settings": {
